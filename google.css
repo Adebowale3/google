@@ -50,10 +50,10 @@ img.profile-pic {
 .right-child {
   text-align: right;
   margin-top: -15px;
+ cursor: pointer;
 }
 span:hover {
   text-decoration: underline;
-  cursor:pointer;
 }
 span {
   position: relative;
